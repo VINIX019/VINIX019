@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Vinicius Xavier
+# 🧑🏽‍💻 Vinicius Xavier
 
 Me chamo Vinicius Xavier, tenho 20 anos. Atualmente, estou cursando Ciência da computação. Sou apaixonado e muito curioso por tecnologia.
 ---
