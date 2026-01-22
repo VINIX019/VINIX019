@@ -1,6 +1,8 @@
 # 🧑🏽‍💻 Vinicius Xavier
 
-Me chamo Vinicius Xavier, tenho 20 anos. Atualmente, estou cursando Ciência da computação. Sou apaixonado e muito curioso por tecnologia.
+Me chamo Vinicius Xavier, tenho 21 anos. Atualmente, estou cursando Ciência da computação. Sou apaixonado e muito curioso por tecnologia. // My name is Vinicius Xavier, I'm 21 years old. I am currently studying Computer Science. I am passionate and very curious about technology.
+
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
