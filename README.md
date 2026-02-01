@@ -30,7 +30,7 @@ Me chamo Vinicius Xavier, tenho 21 anos. Atualmente, estou cursando Ciência da 
     style="padding-right: 10px;" 
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=VINIX019&show_icons=true&theme=react&include_all_commits=true&locale=pt-br" 
   />
-
+<br/>
   <img 
     align="left"
     alt="Top Languages"
