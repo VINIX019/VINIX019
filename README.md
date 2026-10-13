@@ -1,4 +1,4 @@
-<h1 align="center">Vinicius Xavier</h1>
+<h1 align="center">🧑🏽‍💻Vinicius Xavier</h1>
 
 <p align="center">
   Desenvolvedor em formação (Ciência da Computação, UNIP) · Campinas, SP<br/>
